@@ -1,6 +1,6 @@
 # ⚒️ QueryArtisan
 
-## 🚀 **GraphQL for AI Agents**
+## 🚀 **GraphQL query generation tools for AI Agents**
 
 ![QueryArtisan Demo](./public/assets/queryartisanchatdemo.gif)
 
