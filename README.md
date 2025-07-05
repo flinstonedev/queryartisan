@@ -2,6 +2,8 @@
 
 ## 🚀 **GraphQL for AI Agents**
 
+![QueryArtisan Demo](./public/assets/queryartisanchatdemo.gif)
+
 A server application that helps AI agents interact with GraphQL APIs through structured tools instead of raw query generation.
 
 QueryArtisan provides **26 tools** via the Model Context Protocol (MCP) that allow agents to build, validate, and execute GraphQL queries step-by-step rather than generating complete query strings.
